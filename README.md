@@ -6,10 +6,10 @@ This code identifies pregnancy-related clinical codes in the UK Biobank (UKB) an
 # Required UK Biobank Data
 To run this code, the following UKB resources must be downloaded:
 
-## Database Tables
--***hesin.csv*** – Hospital Episode Statistics (HES) inpatient core dataset
--***hesin_diag.csv*** – HES inpatient diagnoses
--***gp_clinical.csv*** – General Practitioner (GP) clinical events
+## Database Tables  
+-***hesin.csv*** – Hospital Episode Statistics (HES) inpatient core dataset  
+-***hesin_diag.csv*** – HES inpatient diagnoses  
+-***gp_clinical.csv*** – General Practitioner (GP) clinical events  
 
 ## UKB clinical coding classification systems and mapping files 
 -***all_lkps_maps_v4.xlsx*** – downloaded from https://biobank.ndph.ox.ac.uk/ukb/ukb/auxdata/primarycare_codings.zip
