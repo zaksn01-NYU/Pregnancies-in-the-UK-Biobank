@@ -23,7 +23,7 @@ To run this code, the following UKB resources must be downloaded:
 
 ## PRS scores for psychiatric conditions
 -***PRS_ANX.txt, PRS_BIPOL.txt, PRS_DEPR.txt, PRS_SCZ.txt*** – User-generated files that contains user-calculated PRS scores for anxiety, bipolar, depressive, and schizophrenia spectrum disorders, with columns titled ‘eid’ and ‘PRS_ANX’ / ‘PRS_BIPOL’ / ‘PRS_DEPR’ / ‘PRS_SCZ’. Details of how to calculate these scores can be found in the manuscript  
--***PRS_PrinicalComponents.txt*** – A user-generated file that contains the first ten user-calculated genetic principal components, with columns titled ‘eid’ and ‘PC1’:‘PC10’
+-***PRS_PrinicalComponents.txt*** – A user-generated file that contains the first ten user-calculated genetic principal components, with columns titled ‘eid’, ‘PC1’, ‘PC2’, …, ‘PC10’
 
 ## Consent withdrawal
 -***withdrawn.csv*** – A user-generated file containing the most recent list of participants who have withdrawn consent for data use. This should be a single column named ‘eid’ 
