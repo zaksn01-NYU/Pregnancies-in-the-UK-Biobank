@@ -21,6 +21,6 @@ To run this code, the following UKB resources must be downloaded:
 -***withdrawn.csv*** – A user-generated file containing the most recent list of participants who have withdrawn consent for data use. This should be a single column named ‘eid’ 
 
 # Directory Structure
-For compatibility with the included scripts, all data should be organized into the following two folders:
--***raw_UKB*** – contains all the UKB data files listed above
+For compatibility with the included scripts, all data should be organized into the following two folders:  
+-***raw_UKB*** – contains all the UKB data files listed above  
 -***processed*** – contains all newly generated/processed data created by the scripts
