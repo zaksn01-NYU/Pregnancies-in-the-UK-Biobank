@@ -1,4 +1,4 @@
-# Pregnancies-in-the-UK-Biobank
+# Maternal Mental Health and Obstetric Complications: Diagnostic, Medication, and Genetic Risk Pathways
 
 # Overview
 This is the complete code for the work entitled, *Maternal Mental Health and Obstetric Complications: Diagnostic, Medication, and Genetic Risk Pathways*. 
