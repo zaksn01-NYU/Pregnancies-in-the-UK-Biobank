@@ -32,9 +32,7 @@ To run this code, the following UKB resources must be downloaded:
 For compatibility with the included scripts, all data should be organized into the following two folders:  
 -***raw_UKB*** – contains all the UKB data files listed above  
 -***processed*** – contains all newly generated/processed data created by the scripts  
+<br>
 
-.
-.
-. 
 For questions or issues, please contact: nina.zaks@nyulangone.org
 
